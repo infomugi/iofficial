@@ -1,15 +1,8 @@
 # Backend & Frontend IOfficial Bukalapak Competition
 ![alt text](https://raw.githubusercontent.com/infomugi/iofficial/52ea1e18b397c26d434718b0483563305f81ac90/screenshot.jpg)
-Aplikasi IOfficial merupakan apps mobile yang dibuat dalam rangka bukalapak competition, disini anda dapat mengembangkan aplikasi iofficial yang di kelola oleh wefay.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Installing
-A step by step series of examples that tell you have to get a development env running
-```
-Give the example
-```
+Aplikasi IOfficial merupakan apps mobile yang dibuat dalam rangka bukalapak competition, disini anda dapat mengembangkan aplikasi iofficial yang di kelola oleh wefay.
 
 ## Built With
 * [Codeigniter](https://www.codeigniter.com/) - Framework CodeIgniter 3.1.4
