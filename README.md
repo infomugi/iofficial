@@ -1,5 +1,5 @@
 # Backend & Frontend IOfficial Bukalapak Competition
-![alt text](https://github.com/infomugi/api_iofficial/blob/master/screenshot.jpg)
+![alt text](https://raw.githubusercontent.com/infomugi/iofficial/52ea1e18b397c26d434718b0483563305f81ac90/screenshot.jpg)
 API IOfficial merupakan apps mobile yang dibuat dalam rangka bukalapak competition, disini anda dapat mengembangkan aplikasi iofficial yang di kelola oleh wefay.
 
 ## Getting Started
